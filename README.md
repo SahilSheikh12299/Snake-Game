@@ -1,3 +1,7 @@
+![Snake Game](https://github.com/SahilSheikh12299/Snake-Game/blob/main/1_snake_game/Gameplay.png)
+
+
+
 # Snake-Game
 ## Screenshots of the game can be found in the game directory, under the names "Gameplay.png" and "Game over.png".
 Python Code for the famous "Snake" game that we all know about using PyGame module.
